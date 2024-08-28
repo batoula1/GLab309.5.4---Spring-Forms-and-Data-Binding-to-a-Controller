@@ -1,4 +1,4 @@
-package com.Glab30954.Spring.Forms.and.Data.model;
+package com.Glab30954.Spring.Forms.and.Data.Model;
 
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;

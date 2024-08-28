@@ -1,4 +1,4 @@
-package com.Glab30954.Spring.Forms.and.Data;
+package com.Glab30954.Spring.Forms.and.Data.Model;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
